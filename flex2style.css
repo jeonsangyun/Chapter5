@@ -1,0 +1,18 @@
+.box{
+    background-color: rgb(199, 149, 149);
+    width: 100px;
+    height: 100px;
+}
+
+.mother{
+    display: flex;
+    flex-direction: column;
+}
+
+.mid-box{
+    align-self: center;
+}
+
+.bot-box{
+    align-self: flex-end;
+}
